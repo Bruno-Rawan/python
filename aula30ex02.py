@@ -15,4 +15,4 @@ try:
         print('Boa Noite!')
 
 except:
-    print('Valor invalido') 
+    print('Valor invalido!\nTente isso 00:00') 
