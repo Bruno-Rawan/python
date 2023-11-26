@@ -1,4 +1,6 @@
-"""Calculadore com While"""
+"""TABUADA"""
+
+
 try:
     n = int(input("Digite o número da tabuada: "))
     operador = input("Digite o operador: ")
